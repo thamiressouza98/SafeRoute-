@@ -13,3 +13,9 @@ Aplicativo para celular que sugere rotas mais seguras para caminhar pela cidade,
 - HTML
 - CSS
 - JavaScript
+## O que aprendi com o projeto
+- Processamento de dados geográficos e lógica de rotas
+- Análise de métricas de segurança e armazenamento de dados
+- Estruturação e consulta de banco de dados
+- Criação de notificações e interação com o usuário
+- Gerenciamento de autenticação e dados de usuários 
